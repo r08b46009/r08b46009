@@ -1,4 +1,4 @@
-# Hi, I'm Yi-Shan Lan 🐱
+# Hi, I'm Yi-Shan Lan 
 
 I am a **Computational Biology & AI researcher** working at the intersection of machine learning, reinforcement learning, and biological research.
 
