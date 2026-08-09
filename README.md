@@ -45,7 +45,7 @@ Developed semantic data augmentation and structure-aware representation learning
 **Structural Bioinformatics · RNA · Phylogenetics**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/r08b46009/Workflow-for-A-helix-based-Ribosome-Structural-Analysis-Algorithm/4v88.gif" width="500">
+  <img src="https://raw.githubusercontent.com/r08b46009/Workflow-for-A-helix-based-Ribosome-Structural-Analysis-Algorithm/main/4v88.gif" width="500">
 </p>
 
 Developed computational methods to characterize ribosomal architecture through the spatial organization of rRNA A-helices and compare structural patterns across species.
