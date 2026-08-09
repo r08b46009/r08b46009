@@ -20,6 +20,10 @@ Studying epigenetic and transcriptomic changes in *C. elegans* using multi-omics
 
 **AlphaZero · MCTS · Curriculum Learning · Search Optimization**
 
+## Demo
+<p align="center">
+  <img src="cornpuzzle/cornpuzzle_56_ece_terminal_color.gif" width="900">
+</p>
 Investigating how curriculum progression and adaptive search can help reinforcement learning agents solve increasingly difficult combinatorial problems more efficiently.
 
 → [CornPuzzle](https://github.com/r08b46009/cornpuzzle)
