@@ -56,6 +56,7 @@ Developed computational methods to characterize ribosomal architecture through t
 
 At UCSF, I developed NLP and large language model pipelines for analyzing real-world clinical data, including symptom extraction from free-text clinical notes and structured analysis of diagnoses and medication information.
 
+→ [MedicalBERT Pretraining](https://github.com/r08b46009/EHRBERT)
 
 ## 🐾 Research Toolbox
 
