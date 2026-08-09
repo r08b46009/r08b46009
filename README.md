@@ -56,11 +56,6 @@ Developed computational methods to characterize ribosomal architecture through t
 
 At UCSF, I developed NLP and large language model pipelines for analyzing real-world clinical data, including symptom extraction from free-text clinical notes and structured analysis of diagnoses and medication information.
 
-## 📚 Selected Publications
-
-* **Architectural principles of the ribosomal large subunit revealed by A-helix spatial organization** — *Scientific Reports*, 2026
-* **The RNA A-helix architects the evolution of the ribosome** — Research Square, 2025
-* **NaNa and MiGu: Semantic Data Augmentation Techniques to Enhance Protein Classification in Graph Neural Networks** — arXiv
 
 ## 🐾 Research Toolbox
 
