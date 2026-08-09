@@ -22,7 +22,7 @@ Studying epigenetic and transcriptomic changes in *C. elegans* using multi-omics
 
 ## Demo
 <p align="center">
-  <img src="https://raw.githubusercontent.com/r08b46009/cornpuzzle/main/cornpuzzle_56_ece_terminal_color.gif" width="300">
+  <img src="https://raw.githubusercontent.com/r08b46009/cornpuzzle/main/cornpuzzle_56_ece_terminal_color.gif" width="450">
 </p>
 Investigating how curriculum progression and adaptive search can help reinforcement learning agents solve increasingly difficult combinatorial problems more efficiently.
 
