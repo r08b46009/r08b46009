@@ -10,6 +10,7 @@ My research interests include **reinforcement learning, graph neural networks, m
 
 Developing AlphaZero-style reinforcement learning methods using Monte Carlo Tree Search and curriculum learning to improve search efficiency and learning on increasingly complex decision-making problems.
 
+
 ### 🪱 Computational Genomics & Ageing
 
 Studying epigenetic and transcriptomic changes in *C. elegans* using multi-omics and single-cell approaches to understand mechanisms underlying ageing and phenotypic regulation.
@@ -22,7 +23,7 @@ Studying epigenetic and transcriptomic changes in *C. elegans* using multi-omics
 
 ## Demo
 <p align="center">
-  <img src="https://raw.githubusercontent.com/r08b46009/cornpuzzle/main/cornpuzzle_56_ece_terminal_color.gif" width="450">
+  <img src="https://raw.githubusercontent.com/r08b46009/cornpuzzle/docs/imgs/cornpuzzle_56_ece_terminal_color.gif" width="450">
 </p>
 Investigating how curriculum progression and adaptive search can help reinforcement learning agents solve increasingly difficult combinatorial problems more efficiently.
 
